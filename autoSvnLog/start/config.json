@@ -1,0 +1,34 @@
+{
+  "lang": "en",
+  "authors": [
+    "admin"
+  ],
+  "dateRange": [
+    "2023-01-02",
+    "2023-01-07"
+  ],
+  "repos": [
+    "https://desktop-qrln642:4433/svn/trustmo/trunk"
+  ],
+  "format": [
+    "svnLogAutoGenerate-自定义名称",
+    "trunk-trustmo"
+  ],
+  "includes": [
+    "feat",
+    "fix",
+    "docs",
+    "style",
+    "refactor",
+    "test",
+    "chore"
+  ],
+  "excludes": [
+    "typo",
+    "backup"
+  ],
+  "showRate": true,
+  "svnUserName": "admin",
+  "svnPassword": "admin",
+  "exportLogUrl": "E:/工作日报/"
+}
